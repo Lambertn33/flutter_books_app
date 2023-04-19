@@ -1,16 +1,6 @@
 # books_app
 
-A new Flutter project.
+A new Flutter project that lists some books with respective authors and cover.
 
-## Getting Started
+you can see the list of books on initial page and on click on single book, you are being redirected to book details page
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
